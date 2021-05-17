@@ -1,2 +1,0 @@
-
-{"function":0,"type":0,"sender":"","addressee":"","message":"* Guest1 has joined.","name":[]}
